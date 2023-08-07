@@ -1,0 +1,7 @@
+# Compiled source #		
+.DS_Store
+.idea/
+.cache/
+.vscode/
+venv
+__pycache__/
